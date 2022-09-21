@@ -10,4 +10,4 @@ Curso: Licenciatura em Ciência da Computação
 
 Universidade: UFPB Campus IV - Rio Tinto
 
-Professora: Ayla Débora Dantas de Souza Reboucas
+Professora: Ayla Débora Dantas de Souza Reboucas 
